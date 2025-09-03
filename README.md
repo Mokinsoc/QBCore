@@ -34,7 +34,7 @@
 
 1.  **克隆/下载仓库**:
     ```bash
-    git clone https://github.com/你的用户名/MokinSoc.git
+    git clone https://github.com/Mokinsoc/QBCore.git
     # 或直接下载 ZIP 包并解压
     ```
 2.  **设置数据库**:
@@ -76,10 +76,10 @@ A: 我们建议您 Fork 本仓库。当有重大更新时，您可以通过 Git 
 
 本项目采用 **GPL-3.0** 许可证。这意味着您可以自由地使用、修改和分发，但如果您发布了修改后的版本，也必须开源。详情请参阅 LICENSE 文件。
 
-## **💬 支持与社区**
+<!-- ## **💬 支持与社区**
 
-如果您在使用中遇到问题或有好的建议：
+如果您在使用中遇到问题或有好的建议： -->
 
-1.  请先查阅本说明和 https://qbcore.org。
-2.  您可以在本仓库的 https://github.com/你的用户名/MokinSoc/issues 页面提交 Bug 或功能请求。
-3.  (可选) 加入我们的 Discord 社区获取实时帮助: [邀请链接]
+<!-- 1.  请先查阅本说明和 https://qbcore.org。 -->
+<!-- 2.  您可以在本仓库的 https://github.com/你的用户名/MokinSoc/issues 页面提交 Bug 或功能请求。 -->
+<!-- 3.  (可选) 加入我们的 Discord 社区获取实时帮助: [邀请链接] -->
