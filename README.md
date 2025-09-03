@@ -1,15 +1,5 @@
 # **MokinSoc - 一站式 QBCore 服务器套件**
 
-https://img.shields.io/badge/License-GPL--3.0-orange.svg](LICENSE)
-
-https://img.shields.io/badge/QBCore-2.2.4-brightgreen.svg](https://qbcore.org)
-
-https://img.shields.io/discord/您的服务器ID?color=7289DA&label=Discord&logo=discord](https://discord.gg/您的邀请链接)
-
-https://img.shields.io/badge/FiveM-Ready-blue.svg](https://fivem.net)
-
-**English** | **中文**
-
 这是一个完整的、经过精心配置和优化的 **QBCore 服务器文件集合**。您无需繁琐地逐个下载和配置资源，本仓库提供了一站式解决方案，助您快速搭建一个功能齐全的 FiveM 角色扮演服务器。
 
 
@@ -31,7 +21,7 @@ https://img.shields.io/badge/FiveM-Ready-blue.svg](https://fivem.net)
 
 这是最快捷、最无痛的方式。txAdmin 会自动处理所有下载和配置工作。
 
-1.  安装并运行最新版的 https://runtime.fivem.net/artifacts/fivem/build_server_windows/。
+1.  安装并运行最新版的 https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/
 2.  在 txAdmin 初始化界面，选择 **“部署新服务器”** -> **“从 URL”**。
 3.  粘贴此 **Recipe.yaml 文件的 Raw 地址**：
     `https://raw.githubusercontent.com/你的用户名/MokinSoc/main/recipe.yaml`
