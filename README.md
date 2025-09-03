@@ -1,17 +1,17 @@
 # **MokinSoc - 一站式 QBCore 服务器套件**
 
 https://img.shields.io/badge/License-GPL--3.0-orange.svg](LICENSE)
+
 https://img.shields.io/badge/QBCore-2.2.4-brightgreen.svg](https://qbcore.org)
+
 https://img.shields.io/discord/您的服务器ID?color=7289DA&label=Discord&logo=discord](https://discord.gg/您的邀请链接)
+
 https://img.shields.io/badge/FiveM-Ready-blue.svg](https://fivem.net)
 
 **English** | **中文**
 
 这是一个完整的、经过精心配置和优化的 **QBCore 服务器文件集合**。您无需繁琐地逐个下载和配置资源，本仓库提供了一站式解决方案，助您快速搭建一个功能齐全的 FiveM 角色扮演服务器。
 
-!https://via.placeholder.com/800x400?text=截图：您的仓库首页预览图 <!-- 建议替换为您的实际仓库截图 -->
-
----
 
 ## **✨ 套件内容**
 
