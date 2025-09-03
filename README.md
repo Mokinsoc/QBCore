@@ -24,7 +24,7 @@
 1.  安装并运行最新版的 https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/
 2.  在 txAdmin 初始化界面，选择 **“部署新服务器”** -> **“从 URL”**。
 3.  粘贴此 **Recipe.yaml 文件的 Raw 地址**：
-    `https://raw.githubusercontent.com/你的用户名/MokinSoc/main/recipe.yaml`
+    `https://github.com/Mokinsoc/QBCore/blob/main/qucore.yaml`
 4.  跟随 txAdmin 的引导完成后续设置（如数据库配置、管理员账户创建）。
 5.  等待部署完成，即可启动服务器！
 
